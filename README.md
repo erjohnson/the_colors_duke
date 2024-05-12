@@ -1,9 +1,11 @@
 # the_colors_duke
 
-makes an svg swatch from a list of colors.
+makes svg color swatches from palettes.
 
 [The colors, Duke, the colors!](https://www.youtube.com/watch?v=iavURrznqjQ)
 
 ![cards colors](/palettes/cards.svg)
+
 ![megaloot colors](/palettes/megaloot.svg)
+
 ![verona colors](/palettes/verona.svg)
