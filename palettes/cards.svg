@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="300" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="75" height="75" fill="#ECECE0" />
+<rect x="75" y="0" width="75" height="75" fill="#3B324A" />
+<rect x="150" y="0" width="75" height="75" fill="#3978A8" />
+<rect x="225" y="0" width="75" height="75" fill="#94D2D4" />
+<rect x="0" y="75" width="75" height="75" fill="#C93038" />
+<rect x="75" y="75" width="75" height="75" fill="#8E478C" />
+<rect x="150" y="75" width="75" height="75" fill="#309C63" />
+<rect x="225" y="75" width="75" height="75" fill="#839A33" />
+<rect x="0" y="150" width="75" height="75" fill="#EEA160" />
+<rect x="75" y="150" width="75" height="75" fill="#B6CBCF" />
+<rect x="150" y="150" width="75" height="75" fill="#90A1A8" />
+<rect x="225" y="150" width="75" height="75" fill="#FCF960" />
+<rect x="0" y="225" width="75" height="75" fill="#FFAD3B" />
+</svg>
